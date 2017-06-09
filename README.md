@@ -38,7 +38,8 @@ Symbols are Sketch's way of importing a module that has already been created. It
 
 To detach a symbol, right click the purple symbol folder in the 'layers list', and choose 'detach from symbol'. This will create a copy of the defult symbol, so you can edit it directly on the page without altering the default modules/symbols.
 
-![detachsymbol](https://cloud.githubusercontent.com/assets/23170050/26194640/ee749cc6-3bb0-11e7-9e63-386b47e5cce2.gif)
+![detatchsymbol](https://user-images.githubusercontent.com/23170050/26997108-faa44756-4d6e-11e7-8c99-21ced1497fd9.gif)
+
 
 # FEF Patterns
 
