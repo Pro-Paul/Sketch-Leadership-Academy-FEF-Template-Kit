@@ -21,7 +21,7 @@ The template comes with elements for both tablet/desktop and mobile. To switch b
 
 **Ignore the symbol editor, unless you want to edit the default import symbols.**
 
-![pagelist](https://cloud.githubusercontent.com/assets/23170050/26194481/68e1d95c-3bb0-11e7-8f98-5f706d120f1b.gif)
+![swappages](https://user-images.githubusercontent.com/23170050/26997005-5d1d0798-4d6e-11e7-8c02-6b44ed72d6cb.gif)
 
 ### Inserting a symbol
 
