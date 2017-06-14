@@ -13,7 +13,7 @@ Frutiger LT Pro
 
 # Getting Started
 
-The template has several features which make createing a concept quick and easy.
+The template has several features which make creating a concept quick and easy.
 
 ### Desktop or Mobile
 
