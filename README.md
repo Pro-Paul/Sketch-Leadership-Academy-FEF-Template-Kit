@@ -9,7 +9,7 @@ https://github.com/NHSLeadership/Sketch-Leadership-Academy-email-template-kit
 
 # Requirements
 [Sketchapp](https://www.sketchapp.com/ "Download Sketchapp")<br />
-Frutiger LT Pro
+Frutiger LT Pro - https://www.fonts.com/font/linotype/frutiger
 
 # Getting Started
 
